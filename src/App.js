@@ -10,7 +10,7 @@ function App() {
         Now standing at the starting line.
         </p>
         <a
-          className="CFC"
+          className="Chelsea Football Club"
           href="https://www.chelseafc.com/en"
           target="_blank"
           rel="noopener noreferrer"
