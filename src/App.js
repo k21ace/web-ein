@@ -10,8 +10,8 @@ function App() {
         Now standing at the starting line.
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="CFC"
+          href="https://www.chelseafc.com/en"
           target="_blank"
           rel="noopener noreferrer"
         >
